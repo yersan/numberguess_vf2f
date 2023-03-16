@@ -1,0 +1,5 @@
+build:
+  uri: https://github.com/yersan/numberguess_vf2f
+  ref: main
+deploy:
+  replicas: 1
